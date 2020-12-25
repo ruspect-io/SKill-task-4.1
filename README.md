@@ -7,22 +7,22 @@
 ----
 ### Содержание:
 1.  [Введение](Introduction.md)
-2.  config
-3.  init
-4.  branch
-5.  remote
+2.  [config](config.md)
+3.  [init](init.md)
+4.  [branch](branch.md)
+5.  [remote](remote.md)
 6.  [add](./add.md)
-7.  status
-8.  clone
-9.  commit
-10. push
-11. checkout
-12. log
-13. pull
-14. merge
-15. rebase
-16. stash
-17. grep
+7.  [status](status.md)
+8.  [clone](clone.md)
+9.  [commit](commit.md)
+10. [push](push.md)
+11. [checkout](checkout.md)
+12. [log](log.md)
+13. [pull](pull.md)
+14. [merge](merge.md)
+15. [rebase](rebase.md)
+16. [stash](stash.md)
+17. [grep](grep.md)
 ----
 
 **GIT logo autor: Jason Long:** *[MIT](http://git-scm.com/downloads/logos).*
