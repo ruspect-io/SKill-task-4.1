@@ -7,8 +7,22 @@
 ----
 ### Содержание:
 1.  [Введение](Introduction.md)
-2.  [add](./add.md)
-3.  
+2.  config
+3.  init
+4.  branch
+5.  remote
+6.  [add](./add.md)
+7.  status
+8.  clone
+9.  commit
+10. push
+11. checkout
+12. log
+13. pull
+14. merge
+15. rebase
+16. stash
+17. grep
 ----
 
 **GIT logo autor: Jason Long:** *[MIT](http://git-scm.com/downloads/logos).*

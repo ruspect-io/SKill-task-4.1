@@ -1,4 +1,3 @@
-*[На главную](./README.md)*
 
 ## git add:
 
@@ -10,3 +9,4 @@
 git add temp.txt
 ```
  
+*[На главную](./README.md)*
