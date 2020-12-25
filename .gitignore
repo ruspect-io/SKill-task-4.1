@@ -1,0 +1,27 @@
+# standard editor directions, files and extentions:
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.sln
+*.sw?
+*.mp3
+*.avi
+AppData/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+MicrosoftEdgeBackups/
+NTUSER.DAT
+OneDrive/
+Pictures/
+Searches/
+Videos/
+
+help/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
