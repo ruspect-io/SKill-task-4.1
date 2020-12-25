@@ -23,8 +23,9 @@
 15. [rebase](rebase.md)
 16. [stash](stash.md)
 17. [grep](grep.md)
+    
 ----
 
 **GIT logo autor: Jason Long:** *[MIT](http://git-scm.com/downloads/logos).*
 **License:** *[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en)*
-**Text autor *[site]*(https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy)**
+**Text autor [site](https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy)**
